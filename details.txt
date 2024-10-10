@@ -1,4 +1,3 @@
-echo "Name: John Doe" >> details.txt
-echo "Father's Name: Richard Doe" >> details.txt
-echo "Regd No: 123456" >> details.txt
-[D[D[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CAshirvad Dubey[B[C[Cxyz[B[D[216527[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+Name: Ashirvad Dubey
+Father's Name: xyz
+Regd No: 12216527
